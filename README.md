@@ -6,7 +6,7 @@
 
 ### 友链
 
-[![Anschluss-zeit](https://avatars.githubusercontent.com/u/111547592)](https://github.com/Anschluss-zeit)
+[Anschluss-zeit](https://github.com/Anschluss-zeit)
 
 ### 联系方式
 
