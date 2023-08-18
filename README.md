@@ -1,6 +1,6 @@
 ## About Me
 
-♂ , 学生党 , OIer , Minecraft ( 1.8.9/1.18.2/1.20.1 ) + 材质包制作 , 正在学习前端 QwQ , 个人博客 [rui-ethereal.github.io](https://rui-ethereal.github.io/) . 更多详见库 .
+♂ , 学生党 , OIer , Minecraft ( 1.8.9 / 1.18.2 / 1.20.1 ) + 材质包制作 , 正在学习前端 QwQ , 个人博客 [rui-ethereal.github.io](https://rui-ethereal.github.io/) . 更多详见库 .
 
 ~~目前还在摆烂 .~~
 
