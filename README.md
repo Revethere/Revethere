@@ -4,6 +4,10 @@
 
 ~~目前还在摆烂 .~~
 
+### 友链
+
+![[Anschluss-zeit](https://github.com/Anschluss-zeit)](https://avatars.githubusercontent.com/u/111547592)
+
 ### 联系方式
 
 - QQ : 103325164
