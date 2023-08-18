@@ -1,10 +1,8 @@
 ## About Me
 
-学生党 , OIer , Minecraft ( 1.8.9/1.18.2/1.20.1 ) + 材质包制作 , 正在学习前端 QwQ , 个人博客 [rui-ethereal.github.io](https://rui-ethereal.github.io/)
+学生党 , OIer , Minecraft ( 1.8.9/1.18.2/1.20.1 ) + 材质包制作 , 正在学习前端 QwQ , 个人博客 [rui-ethereal.github.io](https://rui-ethereal.github.io/) . 更多详见库 .
 
-[![Rui-Ethereal's github stats](https://github-readme-stats.vercel.app/api?username=Rui-Ethereal&theme=blue-black)](https://github.com/Rui-Ethereal/github-readme-stats)
-
-
+~~目前还在摆烂 .~~
 
 ### 联系方式
 
@@ -15,3 +13,5 @@
 - Github : Rui-Ethereal
 
 **Follow Me !!!**
+
+[![Rui-Ethereal's github stats](https://github-readme-stats.vercel.app/api?username=Rui-Ethereal&theme=blue-black)](https://github.com/Rui-Ethereal/github-readme-stats)
