@@ -1,16 +1,17 @@
-### Hi there 👋
+## About Me
 
-<!--
-**Rui-Ethereal/Rui-Ethereal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+学生党 , OIer , Minecraft ( 1.8.9/1.18.2/1.20.1 ) + 材质包制作 , 正在学习前端 QwQ , 个人博客 [rui-ethereal.github.io](https://rui-ethereal.github.io/)
 
-Here are some ideas to get you started:
+[![Rui-Ethereal's github stats](https://github-readme-stats.vercel.app/api?username=Rui-Ethereal&theme=blue-black)](https://github.com/Rui-Ethereal/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### 联系方式
+
+- QQ : 103325164
+
+- LouGu : sAkUrA_Rui_SaTuRdAy
+
+- Github : Rui-Ethereal
+
+**Follow Me !!!**
