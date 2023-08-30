@@ -6,11 +6,11 @@
 
 ~~摆烂ing .~~
 
-### 友链
+### Friends
 
 [Ark-Aak](https://github.com/Ark-Aak)
 
-### 联系方式
+### How To Contact Me
 
 - Github : Rui-Ethereal
 
