@@ -22,6 +22,8 @@
   
 - CodeForces : Rui_
 
+- Bilibili : Rui_Enigma
+
 **Follow Me !!!**
 
 [![Rui-Ethereal's github stats](https://github-readme-stats.vercel.app/api?username=Rui-Ethereal&theme=blue-black)](https://github.com/Rui-Ethereal/github-readme-stats)
