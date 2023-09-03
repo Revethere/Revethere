@@ -6,8 +6,6 @@
 
 ~~摆烂ing .~~
 
-![](Bilibili:BV1mp4y1P7hu)
-
 ### Friends
 
 [Ark-Aak](https://github.com/Ark-Aak)
