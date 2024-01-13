@@ -12,7 +12,7 @@
 
 ### How To Contact Me
 
-- Github : Rui-Ethereal
+- Github : Revethere
 
 - QQ : 103325164
 
@@ -22,7 +22,7 @@
   
 - CodeForces : Rui_
 
-- Bilibili : Rui_Enigma
+- Bilibili : 山城雾遇Revethere
 
 **Follow Me 🎁 ! ! !**
 
