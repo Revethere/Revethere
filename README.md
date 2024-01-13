@@ -28,4 +28,4 @@
 
 [顺便链接一下我在 Bilibili 上的视频 ( 点个赞吧 awa )](https://www.bilibili.com/video/BV1mp4y1P7hu)
 
-[![Rui-Ethereal's github stats](https://github-readme-stats.vercel.app/api?username=Rui-Ethereal&theme=blue-black)](https://github.com/Rui-Ethereal/github-readme-stats)
+[![Rui-Ethereal's github stats](https://github-readme-stats.vercel.app/api?username=Revethere&theme=blue-black)](https://github.com/Revethere/github-readme-stats)
