@@ -2,7 +2,7 @@
 
 ♂ , 学生党 , OIer ( ~~蒟蒻~~ ) , Cuber ( 主力 GAN13 ) , Minecraft ( 1.8.9 / 1.18.2 / 1.20.1 ) + 材质包制作 , 正在学习前端 QwQ .
 
-个人博客 [Rui-Ethereal](https://rui-ethereal.github.io/) .
+个人博客 [Revethere](https://rui-ethereal.github.io/) .
 
 ~~摆烂ing .~~
 
