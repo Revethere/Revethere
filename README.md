@@ -14,7 +14,7 @@
 
 - QQ : 103325164
 
-- LouGu : sAkUrA_Rui_SaTuRdAy
+- LouGu : Revethere
 
 - Atcoder : Enigma_Rui
   
