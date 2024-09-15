@@ -1,6 +1,6 @@
 ## 😎 About Me
 
-♂ , 学生党 , OIer ( ~~蒟蒻~~ ) , Cuber , Minecraft ( 1.8.9 / 1.18.2 ) + 材质包制作 ( 摆了几个月了 ) , ~~摆烂 ing~~ .
+♂ , CQ 高一摆烂大户 , OIer ( ~~蒟蒻~~ 现已退役 ) , Cuber , Minecraft ( 1.8.9 / 1.18.2 ) + 材质包制作 ( 咕了几个月了 ) , ~~摆烂 ing~~ .
 
 个人博客 [Revethere](https://rui-ethereal.github.io/) .
 
@@ -8,7 +8,7 @@
 
 [Ark-Aak](https://github.com/Ark-Aak)
 
-### How To Contact Me
+### 👀 How To Contact Me
 
 - Github : Revethere
 
@@ -22,8 +22,8 @@
 
 - Bilibili : Revethere
 
-**Follow Me 🎁 ! ! !**
+~~记不住的话搜 Revthere 就对了, 全世界应该就我是用的这个名字(~~
 
-[顺便链接一下我在 Bilibili 上的视频 ( 点个赞吧 awa )](https://www.bilibili.com/video/BV1mp4y1P7hu)
+**Follow Me Plz !!! 🎁**
 
 [![Revethere's github stats](https://github-readme-stats.vercel.app/api?username=Revethere&theme=blue-black)](https://github.com/Revethere/github-readme-stats)
