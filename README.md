@@ -1,22 +1,20 @@
 ### 😎 About Me
 
-♂ , CQ 高一摆烂大户 , OIer ( ~~蒟蒻~~ 现已退役 ) , Cuber , Minecraft ( 1.8.9 / 1.18.2 ) + 材质包制作 ( 咕了几个月了 ) , ~~摆烂 ing~~ .
+♂ , CQ 高一摆烂大户 , OIer ( ~~蒟蒻~~ 现已退役 ) , Cuber , Minecraft ( 1.8.9 / 1.18.2 ) + 材质包制作 ( 咕了快一年了 ) , ~~摆烂 ing~~ .
 
-个人博客 [Revethere](https://rui-ethereal.github.io/) .
+个人博客 [Revethere](https://revethere.github.io/) .
 
 ### ✨ Friends
 
-[Ark-Aak](https://github.com/Ark-Aak)
+[Ark-Aak(ed)](https://github.com/Ark-Aak)
 
 ### 👀 How To Contact Me
 
 - Github : Revethere
 
-- QQ : 103325164
-
 - LouGu : Revethere
 
-- Atcoder : Enigma_Rui
+- Atcoder : Revethere
   
 - CodeForces : Rui_
 
@@ -26,7 +24,7 @@
 
 ### ㊙︎ Others
 
-Swiftie 留下 , 曲琦留下
+K-POP, 担 YUQI .
 
 **Follow Me Plz !!! 🎁**
 
