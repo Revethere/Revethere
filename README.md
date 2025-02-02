@@ -22,7 +22,7 @@
 
 ~~记不住的话搜 Revethere 就对了, 全世界应该就我是用的这个名字(~~
 
-### ㊙︎ Others
+### 🥳 Others
 
 K-POP, 担 YUQI .
 
