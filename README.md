@@ -24,7 +24,7 @@
 
 ### 🥳 Others
 
-K-POP, 担 YUQI .
+K-POP, 团偏 YUQI .
 
 **Follow Me Plz !!! 🎁**
 
