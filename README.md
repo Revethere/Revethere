@@ -1,6 +1,6 @@
 ### 😎 About Me
 
-♂ , CQ 高一摆烂大户 , OIer ( ~~蒟蒻~~ 现已退役 ) , Cuber , 材质包 ( 咕了很久很久了 ) , ~~摆烂 ing~~ .
+♂ , CQ 高二摆烂大户 , OIer ( ~~蒟蒻~~ 现已退役 ) , Cuber , 材质包 ( 咕了很久很久了 ) , ~~摆烂 ing~~ .
 
 个人博客 [Revethere](https://revethere.github.io/) .
 
@@ -13,10 +13,6 @@
 - Github : Revethere
 
 - LouGu : Revethere
-
-- Atcoder : Revethere
-  
-- CodeForces : Rui_
 
 - Bilibili : Revethere
 
